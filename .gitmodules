@@ -1,0 +1,3 @@
+[submodule "portfolio-alura-desenvolve-boticario"]
+	path = portfolio-alura-desenvolve-boticario
+	url = git@github.com:pedropaccola/portfolio-alura-desenvolve-boticario.git
